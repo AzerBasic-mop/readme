@@ -36,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit eu tempus, pellente
 
 ## Project setup
 
-Open the Visual Studio solution, find the appsettings.json and in IdentityUrl type URL of api project you run localy. 
+Open the Visual Studio solution, find the appsettings.json and in IdentityUrl type URL of identity project you run localy. 
 ```sh
 "IdentityUrl": "https://localhost:7271"
  ```
