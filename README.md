@@ -21,8 +21,6 @@ This is Port Royal, bugbounty as it should be.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -43,7 +41,11 @@ This is Port Royal, bugbounty as it should be.
 Open the Visual Studio solution, find the appsettings.json and in IdentityUrl type URL of identity project you run localy. 
 ```sh
 "IdentityUrl": "https://localhost:7271"
- ```
+```sh
+*Note: You should have identity provider repo cloned - More information about IDP [[GitHub Pages](https://pages.github.com/)](https://github.com/Por7Royal-Bug-Bounty/identity)
+```sh
+
+```sh
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
