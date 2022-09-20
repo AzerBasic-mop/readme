@@ -36,8 +36,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit eu tempus, pellente
 
 ## Project setup
 
-Open the Visual Studio solution, find the appsettings.json and in BaseUrl setup url of youre api project.
-
+Open the Visual Studio solution, find the appsettings.json and in IdentityUrl type URL of api project you run localy. 
+```sh
+"IdentityUrl": "https://localhost:7271"
+ ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
