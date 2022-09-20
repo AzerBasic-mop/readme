@@ -13,7 +13,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-< AHOY MATEY,  /br>
+AHOY MATEY, <br/>
 Roam the digital seas as a fearless swashbuckeling pirate or legendary captain with your own crew. 
 Wreck havoc on corporate settlements as you bask in the wealth from all the looted vulnerabilities you've found, in this gamified bugbounty platform.
 Have you and your crew compete against other landlubbers as you hoist your colors to find the biggest flaw, and row home a tresure galeon of bounty and bonuses.
