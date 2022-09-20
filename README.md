@@ -34,6 +34,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit eu tempus, pellente
 
 3. Open project and wait for Visual Studio to restore all NuGet packages
 
+## Project setup
+
+Open the Visual Studio solution, find the appsettings.json and in BaseUrl setup url of youre api project.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
