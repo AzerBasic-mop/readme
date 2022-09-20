@@ -13,7 +13,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit eu tempus, pellentesque urna aenean amet feugiat lorem. Eget et pretium a morbi. Neque, id nisi, integer vel blandit sagittis. Leo, habitant ut sit ullamcorper morbi tempus platea tortor. Odio consectetur sed amet posuere. Tortor, curabitur libero tincidunt neque. Ultrices magna sit ornare elementum non tempus. Blandit ac gravida dui, purus. Ac vulputate morbi mattis feugiat aliquam nunc, non. Egestas aliquet arcu dignissim massa elit pharetra. 
+AHOY MATEY,
+Roam the digital seas as a fearless swashbuckeling pirate or legendary captain with your own crew. 
+Wreck havoc on corporate settlements as you bask in the wealth from all the looted vulnerabilities you've found, in this gamified bugbounty platform.
+Have you and your crew compete against other landlubbers as you hoist your colors to find the biggest flaw, and row home a tresure galeon of bounty and bonuses.
+This is Port Royal, bugbounty as it should be.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
