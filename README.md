@@ -44,7 +44,7 @@ Open the Visual Studio solution, find the appsettings.json and in IdentityUrl ty
 ```
 *Note: You should have identity provider repo cloned - More information about IDP [here.](https://github.com/Por7Royal-Bug-Bounty/identity)
 ```sh
-
+git clone https://github.com/Por7Royal-Bug-Bounty/identity.git
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
