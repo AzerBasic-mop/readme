@@ -14,9 +14,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 AHOY MATEY, <br/>
-Roam the digital seas as a fearless swashbuckeling pirate or legendary captain with your own crew. 
-Wreck havoc on corporate settlements as you bask in the wealth from all the looted vulnerabilities you've found, in this gamified bugbounty platform.
-Have you and your crew compete against other landlubbers as you hoist your colors to find the biggest flaw, and row home a tresure galeon of bounty and bonuses.
+Roam the digital seas as a fearless swashbuckeling pirate or legendary captain with your own crew. <br/>
+Wreck havoc on corporate settlements as you bask in the wealth from all the looted vulnerabilities you've found, in this gamified bugbounty platform. <br/>
+Have you and your crew compete against other landlubbers as you hoist your colors to find the biggest flaw, and row home a tresure galeon of bounty and bonuses. <br/>
 This is Port Royal, bugbounty as it should be.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
