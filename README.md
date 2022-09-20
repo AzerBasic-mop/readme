@@ -5,8 +5,7 @@
 
   <h3 align="center">Por7 Royal API</h3>
 
-  <p align="center">
-    Description
+
     
 </div>
 
